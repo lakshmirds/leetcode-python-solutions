@@ -62,4 +62,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0724-find-pivot-index) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
