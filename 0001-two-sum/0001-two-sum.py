@@ -1,10 +1,8 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        d = {}
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        s = {}
         for i in range(len(nums)):
-            need = target - nums[i]
-
-            if need in d:
-                return [d[need],i]
-
-            d[nums[i]] = i
+            a = target - nums[i]
+            if a in s:
+                return [s[a],i]
+            s[nums[i]] = i
