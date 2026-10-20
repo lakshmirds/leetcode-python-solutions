@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0724-find-pivot-index) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
