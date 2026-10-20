@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0724-find-pivot-index) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
