@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0283-move-zeroes) |
+| [0645-set-mismatch](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
