@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,9 +79,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0645-set-mismatch) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
