@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -65,6 +67,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
