@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -89,4 +91,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0054-spiral-matrix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
