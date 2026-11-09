@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
